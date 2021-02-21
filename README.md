@@ -11,4 +11,6 @@ There are two versions of the program: one with prints on the console and the ot
 
 4. **Tic Tac Toe**: the classic game in which the player plays against the computer. The game is printed on the console and drawn on Canvas.
 
-5.  **Calculator**: simple calculator with buttons made with Tkinter in Python.
+5. **Calculator**: simple calculator with buttons made with Tkinter in Python.
+
+6. **To-Do List**: simple to-do list with "add task", "delete task", "save tasks" and "load tasks" buttons.
